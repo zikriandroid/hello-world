@@ -1,0 +1,10 @@
+COMMAND INSTALL:
+1. Buka Aplikasi Termux di Android kalian
+2. pkg install git
+3. pkg install curl
+4. git clone https://github.com/zlucifer/troll_project
+5. cd troll_project
+6. chmod +x *
+7. termux-fix-shebang troll.sh
+8. ./troll.sh
+9. Selesai
